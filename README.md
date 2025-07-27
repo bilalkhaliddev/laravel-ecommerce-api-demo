@@ -37,3 +37,4 @@ This repository is intended as a **portfolio placeholder** to reflect backend ar
 - Fiverr: [fiverr.com/mirzavel](https://fiverr.com/mirzavel)  
 - Upwork: [upwork.com/freelancers/~01931ce34d232c2ef3](https://upwork.com/freelancers/~01931ce34d232c2ef3)  
 - GitHub: [github.com/bilalkhaliddev](https://github.com/bilalkhaliddev)
+- LinkedIn: [linkedin.com/in/bilalkhaliddev](www.linkedin.com/in/bilalkhaliddev)
